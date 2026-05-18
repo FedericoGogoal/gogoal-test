@@ -1,0 +1,397 @@
+{
+  "library": "03_Common",
+  "fileKey": "lgg4aKZhz7Mljr1hFzbnV6",
+  "extractedAt": "2026-05-18",
+  "totalComponents": 50,
+  "pages": {
+    "app bars": {
+      "Sportbook/bottom bar": {
+        "type": "COMPONENT_SET",
+        "key": "512e9d1e78ce1f0e3b10329b5455f175bb6a9f4d",
+        "variantCount": 3,
+        "properties": {
+          "sezione": [
+            "buttons",
+            "giochi",
+            "sport"
+          ]
+        }
+      },
+      "Sportbook/Top app bar": {
+        "type": "COMPONENT_SET",
+        "key": "fa682bc0c8bbd01a9d326ef4d3532c4a8b7b4ca0",
+        "variantCount": 4,
+        "properties": {
+          "Livello": [
+            "page",
+            "primary"
+          ],
+          "Log": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "betgram/bottom bar": {
+        "type": "COMPONENT_SET",
+        "key": "2402c49568aece98b7e59ea50a2ee7cd960f3f8a",
+        "variantCount": 3,
+        "properties": {
+          "view": [
+            "crea",
+            "tipster",
+            "user"
+          ]
+        }
+      },
+      "betgram/Top app bar": {
+        "type": "COMPONENT_SET",
+        "key": "5cc484221d507726e98d9b6e6616c175f1d74b26",
+        "variantCount": 3,
+        "properties": {
+          "Property 2": [
+            "Primary",
+            "page",
+            "propic"
+          ]
+        }
+      },
+      "Bottom app bar - master": {
+        "type": "COMPONENT",
+        "key": "9785f74d977f2a3668cd1ee8987b2fea5d3a160b"
+      },
+      "Top app bar - master": {
+        "type": "COMPONENT",
+        "key": "5281bb39b86d45b0753b9407ff2c5125e36c720f"
+      }
+    },
+    "Navbar Desktop": {
+      "NavBar Desktop Base - vartiants": {
+        "type": "COMPONENT_SET",
+        "key": "f9d1b39c91547efb8c61ed2c1ae61506ae62c20d",
+        "variantCount": 4,
+        "properties": {
+          "surface": [
+            "Default",
+            "brand"
+          ],
+          "Logged": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Menu sport": {
+        "type": "COMPONENT_SET",
+        "key": "da8ecf76a969008b9c0d800adcb458070aab97d1",
+        "variantCount": 4,
+        "properties": {
+          "device": [
+            "desktop",
+            "mobile"
+          ],
+          "live": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "discalimer home": {
+        "type": "COMPONENT",
+        "key": "06f1fd21a6013e58bdfc6c91324af7cef26bfe5d"
+      },
+      "NavBar Desktop Base - master": {
+        "type": "COMPONENT",
+        "key": "7b9ea6882428b8c486d83cb311b262291338f8ff"
+      },
+      "Menu secondario": {
+        "type": "COMPONENT",
+        "key": "80b6e95057f1e269de7b663e350a7d385c8a64cd"
+      }
+    },
+    "Footer": {
+      "Desktop Footer - Master": {
+        "type": "COMPONENT",
+        "key": "8214fe9304a17139a07883fcda659927e91d708e"
+      },
+      "Footer mobile": {
+        "type": "COMPONENT",
+        "key": "362f590e43407ae3f42fe3b9329b6cab339d9882"
+      }
+    },
+    "modal": {
+      "Bottom button - modale": {
+        "type": "COMPONENT",
+        "key": "bdd32b72896ff89060e17e27de3792cc36407513"
+      }
+    },
+    "widget": {
+      "Notifica evento streaming - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "9ecae548d55611e91952b370e8fab6686012f813",
+        "variantCount": 2,
+        "properties": {
+          "status": [
+            "default",
+            "hover"
+          ]
+        }
+      },
+      "Widget sezioni landing": {
+        "type": "COMPONENT_SET",
+        "key": "7062f1b9abf852fe9def07701b3092d030af9cad",
+        "variantCount": 3,
+        "properties": {
+          "State": [
+            "Default",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Text ticker": {
+        "type": "COMPONENT_SET",
+        "key": "54fa7d68651a5cdb4f0c06a7fc6b74f3a60c966a",
+        "variantCount": 2,
+        "properties": {
+          "Property 1": [
+            "1",
+            "2"
+          ],
+          "theme": [
+            "light"
+          ],
+          "Device": [
+            "Desktop"
+          ]
+        }
+      },
+      "Floating arrow": {
+        "type": "COMPONENT_SET",
+        "key": "b2e966b662ad7fce6aa4b33c4aa19627f430a398",
+        "variantCount": 4,
+        "properties": {
+          "gradient": [
+            "Default",
+            "page"
+          ],
+          "button": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Teaser News": {
+        "type": "COMPONENT",
+        "key": "b137ee7b47d831cc49d891b1d27a645b9b7fb560"
+      },
+      "Vincitori Coupon": {
+        "type": "COMPONENT",
+        "key": "ec8a4df1fecb43f339a83934bd0d469ced89aff3"
+      },
+      "Notifica evento streaming": {
+        "type": "COMPONENT",
+        "key": "99263bffb9a86bea2e6b860f668280aa87557caa"
+      },
+      "Widget Streaming in partenza": {
+        "type": "COMPONENT",
+        "key": "4cc557a28908629f7a9e61c1fdda4dacbe114852"
+      },
+      "Title ticker - Master": {
+        "type": "COMPONENT",
+        "key": "487204ca99ad5a7e698b9276eb2cd5d9ed168ee9"
+      },
+      "News ticker/light": {
+        "type": "COMPONENT",
+        "key": "bfac706997031f741e4b988ac934d19185de6f35"
+      },
+      "Widget squadre principali": {
+        "type": "COMPONENT",
+        "key": "224674904ee9e82fa9430e8412802d918273627a"
+      },
+      "Sezioni in evidenza - item": {
+        "type": "COMPONENT",
+        "key": "8779d821b8f41a2dc13a686c25ae32eebd210946"
+      },
+      "Intestazione default": {
+        "type": "COMPONENT",
+        "key": "e13880fb707abd2b311ad741c2c30fee891ff4a2"
+      }
+    },
+    "vari": {
+      "Squadra - variants ": {
+        "type": "COMPONENT_SET",
+        "key": "db1513c98fb4a7c8b8a93c3d650bb50f7b8d0c12",
+        "variantCount": 3,
+        "properties": {
+          "state": [
+            "Default",
+            "active",
+            "hvoer"
+          ]
+        }
+      },
+      "Retino": {
+        "type": "COMPONENT",
+        "key": "29038addf2714e34484df2579dfccbe61fa7205a"
+      },
+      "Spliscreen placeholder - Master": {
+        "type": "COMPONENT",
+        "key": "d030055ab746af0080c79cd048489b5319e22eb7"
+      },
+      "Keyboard - IOS": {
+        "type": "COMPONENT",
+        "key": "0a964faa0ca45c497861dcf27a8f1088985ae9a1"
+      },
+      "Number keyboard": {
+        "type": "COMPONENT",
+        "key": "4b54f08d719fa873ff31db06d61d42750433d11c"
+      },
+      "Squadra - Squadra ": {
+        "type": "COMPONENT",
+        "key": "b7cbe812f51ca65f3429b2d061a67de71f798fef"
+      }
+    },
+    "classifiche": {
+      "Classifica - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "b1bf56b5f89a7c18f1f8d926bf1e69c84c1a0648",
+        "variantCount": 2,
+        "properties": {
+          "Scaduta": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "prize banner": {
+        "type": "COMPONENT_SET",
+        "key": "2ade1356dc232563ab5444a63baedebad8551b09",
+        "variantCount": 3,
+        "properties": {
+          "tipo": [
+            "Buono Amazon",
+            "Premio 1",
+            "Premio 2"
+          ]
+        }
+      },
+      "Classifica": {
+        "type": "COMPONENT",
+        "key": "e46c83a9ce5fc4de6d2588b3b3624996634c3e1d"
+      }
+    },
+    "notifiche 🔄": {
+      "Notifica": {
+        "type": "COMPONENT",
+        "key": "8c1c8266183cf91db492d81e656f06bb4bda3bd6"
+      },
+      "Notifica Push - Download": {
+        "type": "COMPONENT",
+        "key": "1a84b7fda24f4a4467ae96c221e60eeca0aa9826"
+      },
+      "Notifica Push - Master": {
+        "type": "COMPONENT",
+        "key": "3f46bc8bdd0a8ca8c2dc02087d07196f00311091"
+      }
+    },
+    "promozioni 🔄": {
+      "Bonus Tag - variants": {
+        "type": "COMPONENT_SET",
+        "key": "77ef949f7262c08cc4ad4778a1634dcd90426813",
+        "variantCount": 7,
+        "properties": {
+          "Bonus typology": [
+            "conditional",
+            "fun",
+            "istant",
+            "libero",
+            "libero 2",
+            "quota maggiorata",
+            "scadenza"
+          ]
+        }
+      },
+      "Promo teaser - master": {
+        "type": "COMPONENT",
+        "key": "8faa8531058bba2339c8f089be697d89446cbff4"
+      },
+      "promo page": {
+        "type": "COMPONENT",
+        "key": "94b6fcb21f1109973fc118b5b5a75ec546f414ae"
+      }
+    },
+    "cronologia ❌": {
+      "Cronologia Casino - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "3f3c82185c87885e0340103148832acc9779f99d",
+        "variantCount": 2,
+        "properties": {
+          "Size": [
+            "L",
+            "S"
+          ]
+        }
+      },
+      "Cronologia Sport": {
+        "type": "COMPONENT_SET",
+        "key": "ed3c683749ac498d9f312120c58a288bccff237b",
+        "variantCount": 2,
+        "properties": {
+          "device": [
+            "desktop",
+            "mobile"
+          ]
+        }
+      },
+      "Cronologia - Carousel": {
+        "type": "COMPONENT_SET",
+        "key": "d4c32ed85ce2a0e99724bce876242b1a8f7a9d70",
+        "variantCount": 2,
+        "properties": {
+          "Property 1": [
+            "casino",
+            "sport"
+          ],
+          "theme": [
+            "light"
+          ]
+        }
+      },
+      "Cronologia Casino": {
+        "type": "COMPONENT",
+        "key": "f323b00e134ebd3c01188ead64c955f8052884d9"
+      }
+    },
+    "estratto conto ❌": {
+      "Item movimenti estratto conto - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "7e78614e9046f56d962018b36351210ed93fc92e",
+        "variantCount": 2,
+        "properties": {
+          "Type": [
+            "Download",
+            "Upload"
+          ]
+        }
+      },
+      "Item movimenti estratto conto": {
+        "type": "COMPONENT",
+        "key": "3405d925b563d2ffb27d0ebc921239cab3fea306"
+      }
+    },
+    "Drawer menu desktop ❌": {
+      "Drawer menu desktop": {
+        "type": "COMPONENT_SET",
+        "key": "20f974887c9cebc6f8bac10f089434cc91636233",
+        "variantCount": 2,
+        "properties": {
+          "Open": [
+            "false",
+            "true"
+          ]
+        }
+      }
+    }
+  }
+}

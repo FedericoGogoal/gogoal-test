@@ -1,0 +1,1075 @@
+{
+  "library": "04_Sport",
+  "fileKey": "yOqcdt5u8RTYS3fgtVEHBC",
+  "extractedAt": "2026-05-18",
+  "totalComponents": 153,
+  "pages": {
+    "Quote": {
+      "Quota - variants": {
+        "type": "COMPONENT_SET",
+        "key": "1a92deee6096446b07a0974d3f49b1788acaa65b",
+        "variantCount": 16,
+        "properties": {
+          "type": [
+            "Default",
+            "outline"
+          ],
+          "state": [
+            "active",
+            "default",
+            "disabled",
+            "down",
+            "hover",
+            "lock",
+            "pressed",
+            "up"
+          ]
+        }
+      },
+      "Quota carrello - variants": {
+        "type": "COMPONENT_SET",
+        "key": "c818731f180c77fb370cb2fb367044b575e92b4b",
+        "variantCount": 26,
+        "properties": {
+          "type": [
+            "default",
+            "down",
+            "is disabled",
+            "jolly",
+            "locked",
+            "special",
+            "up"
+          ],
+          "state": [
+            "Default",
+            "hover"
+          ],
+          "device": [
+            "desktop",
+            "mobile"
+          ]
+        }
+      },
+      "Handicap e risultato - variants": {
+        "type": "COMPONENT_SET",
+        "key": "fff5650643d8c5487f9cea0823b853333a3066c6",
+        "variantCount": 6,
+        "properties": {
+          "status": [
+            "default",
+            "hover",
+            "pressed"
+          ],
+          "campo": [
+            "Select",
+            "handicap"
+          ]
+        }
+      },
+      "Quota ve - Master": {
+        "type": "COMPONENT",
+        "key": "2b033d40f9be5997746057ccf10a0019867750cf"
+      },
+      "quota ho - Master": {
+        "type": "COMPONENT",
+        "key": "6261fc2e34e380b03b355241fbb1cb2f45ad47ca"
+      },
+      "Quota carrello - master": {
+        "type": "COMPONENT",
+        "key": "af6b3148b7e2aa344488824d3c60260543796809"
+      },
+      "Handicap Pop-up - Master": {
+        "type": "COMPONENT",
+        "key": "5c78e85336f8e1986f405e2906b8a279b2b25b1d"
+      }
+    },
+    "Schedina🛠️": {
+      "Linea giocata completa - Default variants": {
+        "type": "COMPONENT_SET",
+        "key": "6f234e98171ba9adfbe3b15ec76c1409b0143dee",
+        "variantCount": 4,
+        "properties": {
+          "intestazione": [
+            "false",
+            "true"
+          ],
+          "live": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Linea giocata completa - select + quota variants": {
+        "type": "COMPONENT_SET",
+        "key": "90f6d567158ca1429585bd4a5386a3e12594cf11",
+        "variantCount": 16,
+        "properties": {
+          "device": [
+            "desktop",
+            "mobile"
+          ],
+          "live": [
+            "false",
+            "true"
+          ],
+          "select": [
+            "large",
+            "small"
+          ],
+          "intestazione": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Squadre giocata": {
+        "type": "COMPONENT",
+        "key": "96b7804eb1eaee91d42ff46d1861a5a3ad17e2d9"
+      },
+      "Tipologia giocata": {
+        "type": "COMPONENT",
+        "key": "b6a7aeeb482e496da2f1757c79fd9fef15ad3e11"
+      },
+      "Linea giocata completa - Default master": {
+        "type": "COMPONENT",
+        "key": "8e5ea8051dcb6314fab038cd90f7baabbb6fa380"
+      },
+      "Linea giocata completa - select + quota master": {
+        "type": "COMPONENT",
+        "key": "0de986cac69ec3dc7a0440701950c5ab12b16127"
+      },
+      "mobile giocata completa - select + quota master": {
+        "type": "COMPONENT",
+        "key": "b1bdc3285c558e18a62d557179ed173f62c26677"
+      },
+      "Dettaglio - tipologia giocata": {
+        "type": "COMPONENT",
+        "key": "2b506531f94233d2d8625dd89a4818c1dd45270a"
+      },
+      "Dettaglio - tipologia giocata multipla": {
+        "type": "COMPONENT",
+        "key": "892444e946777e92177a4e938a7d568478381284"
+      },
+      "Intestazione manifestazione Desktop": {
+        "type": "COMPONENT",
+        "key": "c2f1b292f418451b455a2a322e8823496afb1001"
+      },
+      "Filtro manifestazione Desktop": {
+        "type": "COMPONENT",
+        "key": "82dfd630c584c7aef3cca1af36ad547ffedbc8fc"
+      },
+      "legenda": {
+        "type": "COMPONENT",
+        "key": "a148dedb906feb17d173194fdca06f8e1dd1e2bb"
+      },
+      "eventi aperti - prototipo/true": {
+        "type": "COMPONENT",
+        "key": "38e34676b0576b5a838fddfa37563473b3b623ec"
+      },
+      "Filtro quote": {
+        "type": "COMPONENT",
+        "key": "46fda4b7e5afa2e175d94fe7ce09612427737903"
+      },
+      "Calendario wrap": {
+        "type": "COMPONENT",
+        "key": "471ee79040795a9aca0576218a69ca14746dcd0d"
+      },
+      "calendario item": {
+        "type": "COMPONENT",
+        "key": "9215fd8643534ce151795f3313c9f022b662f495"
+      }
+    },
+    "Carrello🛠️": {
+      "Strap dashed": {
+        "type": "COMPONENT_SET",
+        "key": "611cbd56c455c93dedfbb1817c44c98c407ac784",
+        "variantCount": 2,
+        "properties": {
+          "type": [
+            "default",
+            "page"
+          ]
+        }
+      },
+      "Promo carrello": {
+        "type": "COMPONENT",
+        "key": "d446a94590620e4440bba4b4842a2413d6449c76"
+      },
+      "tabella sistema": {
+        "type": "COMPONENT_SET",
+        "key": "bcd2afa5edf5e4c67ae95dd2a23474cf1ec3ecdf",
+        "variantCount": 2,
+        "properties": {
+          "device": [
+            "desktop",
+            "mobile"
+          ]
+        }
+      },
+      "Checkout carrello - variants": {
+        "type": "COMPONENT_SET",
+        "key": "923a08215571f0651194dc1fcaafa2d9c0fabccf",
+        "variantCount": 2,
+        "properties": {
+          "type": [
+            "singole",
+            "sistemi"
+          ]
+        }
+      },
+      "middle strap/ bonus carrello - variants": {
+        "type": "COMPONENT_SET",
+        "key": "49886cebed92d84f42b93a17e6651fc93085536a",
+        "variantCount": 2,
+        "properties": {
+          "device": [
+            "desktop",
+            "mobile"
+          ]
+        }
+      },
+      "middle strap giocata card - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "022fb977ca264e7f79322d51af556e319be324c2",
+        "variantCount": 3,
+        "properties": {
+          "stato": [
+            "perdente",
+            "venduto",
+            "vincente"
+          ]
+        }
+      },
+      "Item giocata": {
+        "type": "COMPONENT",
+        "key": "0c834b8b2dd5f022b09352eb2647131598cf6b43"
+      },
+      "middle strap Ticket giocata carrello - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "3681a53089179b4f489635976352cf91bc1cdc4a",
+        "variantCount": 10,
+        "properties": {
+          "Stato": [
+            "Default",
+            "non vincente",
+            "prenotato",
+            "venduto",
+            "vincente"
+          ],
+          "type": [
+            "multipla",
+            "singola"
+          ]
+        }
+      },
+      "promo carrello - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "2fcb02bec68ef5212afbdde63c135027726001f3",
+        "variantCount": 6,
+        "properties": {
+          "tipologia": [
+            "altro",
+            "prima fila"
+          ],
+          "open": [
+            "false",
+            "true"
+          ],
+          "complete": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "recap eventi schedina - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "c2dd699aa116e6ac26ffc82e7752a0311d0e9044",
+        "variantCount": 2,
+        "properties": {
+          "device": [
+            "dekstop",
+            "mobile"
+          ]
+        }
+      },
+      "giocata skinny - variants": {
+        "type": "COMPONENT_SET",
+        "key": "7508035ce796a305f11323e87687e2b361634db5",
+        "variantCount": 4,
+        "properties": {
+          "Contratto": [
+            "false",
+            "true"
+          ],
+          "Tipologia": [
+            "Singole",
+            "Sistemi"
+          ]
+        }
+      },
+      "Evento storico giocata - variants": {
+        "type": "COMPONENT_SET",
+        "key": "df26669b3041821207f81e7c87d8349885287e0f",
+        "variantCount": 8,
+        "properties": {
+          "tipo": [
+            "block",
+            "inline"
+          ],
+          "system fixed": [
+            "false",
+            "true"
+          ],
+          "live": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Box promo scontrino": {
+        "type": "COMPONENT_SET",
+        "key": "d14da42b8bf3aa8cb10cebe6eac9e957647bb548",
+        "variantCount": 2,
+        "properties": {
+          "device": [
+            "desktop",
+            "mobile"
+          ]
+        }
+      },
+      "linea promo scontrino": {
+        "type": "COMPONENT_SET",
+        "key": "638bbdc5339e67d9f95bd3379292118b27b2870e",
+        "variantCount": 6,
+        "properties": {
+          "status": [
+            "active",
+            "disabled",
+            "selected"
+          ],
+          "device": [
+            "desktop",
+            "mobile"
+          ]
+        }
+      },
+      "Tabella promo scontrino": {
+        "type": "COMPONENT_SET",
+        "key": "e5a9113a36428ac8e50dfdf7a15e9cb585778382",
+        "variantCount": 4,
+        "properties": {
+          "device": [
+            "desktop",
+            "mobile"
+          ],
+          "selected": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Promozione scontrino": {
+        "type": "COMPONENT_SET",
+        "key": "9fdddf96b17f3b5b8b6ccfc961a9765f5c5a8715",
+        "variantCount": 2,
+        "properties": {
+          "device": [
+            "desktop",
+            "mobile"
+          ]
+        }
+      },
+      "Stato giocata": {
+        "type": "COMPONENT_SET",
+        "key": "6c7f1875204ba6f7b9e155b95fa443bf73e05165",
+        "variantCount": 4,
+        "properties": {
+          "Status giocata": [
+            "Prenotata",
+            "in corso",
+            "perso",
+            "vinto"
+          ]
+        }
+      },
+      "Ultima giocata - Carrello": {
+        "type": "COMPONENT",
+        "key": "eecb55d42d1389d2ef1a99ad8094cbb48b925f45"
+      },
+      "Promozione carrello - Master": {
+        "type": "COMPONENT",
+        "key": "86f459bacd58ca20ca6234737b35d7e45b4d4440"
+      },
+      "promo carrello - variants": {
+        "type": "COMPONENT_SET",
+        "key": "26c72939ae695a975cc84281d72acc15855b3150",
+        "variantCount": 3,
+        "properties": {
+          "state": [
+            "Default",
+            "attivata",
+            "completa"
+          ]
+        }
+      },
+      "Strap end": {
+        "type": "COMPONENT",
+        "key": "5b660810f2744b8449dcb197ae103421807a89b0"
+      },
+      "intestazione promo e bonus": {
+        "type": "COMPONENT",
+        "key": "25363153abbf159f7a49ecb255a727accf57b335"
+      },
+      "middle strap/ promo": {
+        "type": "COMPONENT",
+        "key": "232212793f31ac93c7030239e68f2518d50f002d"
+      },
+      "Bottom strap promo carrello": {
+        "type": "COMPONENT",
+        "key": "016797fabaf091cfbe2ae4535adf636e73ba1f6d"
+      },
+      "Carrello floater": {
+        "type": "COMPONENT",
+        "key": "720c6f8a7fcef3d169fe5bdf1633b8fffaba142b"
+      },
+      "Popup giocata": {
+        "type": "COMPONENT",
+        "key": "163359b6a24c90df9b2e12fb15648e1517c08805"
+      },
+      "Checkout carrello - master": {
+        "type": "COMPONENT",
+        "key": "4fdde1fac5fa4490b4464166dbd9cc136389dc3c"
+      },
+      "middle strap/ bonus carrello": {
+        "type": "COMPONENT",
+        "key": "c89377ae5a304cd327470fdb2be87166c8beffb7"
+      },
+      "middle strap giocata card - Master": {
+        "type": "COMPONENT",
+        "key": "d7363ecd97e52c8482583f742f8ba594100f19f3"
+      },
+      "Strap promo scontrino": {
+        "type": "COMPONENT",
+        "key": "882f9898003883f405641a2226e8551d5ea8c348"
+      },
+      "middle strap Ticket giocata carrello - Master": {
+        "type": "COMPONENT",
+        "key": "0281775b8f17b429ff450527c96143fc8084e320"
+      },
+      "promo carrello": {
+        "type": "COMPONENT",
+        "key": "481f3ea59b0e7565cf6a06f5f2aa5adb3c91a314"
+      },
+      "Checkout": {
+        "type": "COMPONENT",
+        "key": "79030dfc357edd3e36d64b6f84dd29fa4e43da5f"
+      },
+      "Checkout - desktop": {
+        "type": "COMPONENT",
+        "key": "46b52ce95db45c080c5a5e46485ddef45e79aa05"
+      },
+      "giocata skinny - ok": {
+        "type": "COMPONENT",
+        "key": "08a3211b802cacd1d9c840197c6463850849e9bc"
+      },
+      "giocata skinny - delete": {
+        "type": "COMPONENT",
+        "key": "1931bf4ef4b13ec3d3cf9201b36d3fda4c1896fd"
+      },
+      "Evento storico giocata": {
+        "type": "COMPONENT",
+        "key": "4941e85400669569ec8ae6d1f84675ae96142e93"
+      },
+      "promo carrello - master": {
+        "type": "COMPONENT",
+        "key": "6ac8100a8cd3ea5c397aa2376a0c9c0a7afad202"
+      }
+    },
+    "Fidelity e gare": {
+      "middle strap/ fidelity - variants": {
+        "type": "COMPONENT_SET",
+        "key": "1554ddbdb51e9c276acde6636592cbb99aeb40c4",
+        "variantCount": 2,
+        "properties": {
+          "device": [
+            "desktop",
+            "fidelity"
+          ]
+        }
+      },
+      "middle strap/ gara - variants": {
+        "type": "COMPONENT_SET",
+        "key": "d4f7d1f82799d125b517976ecfbccfb87bed0b32",
+        "variantCount": 2,
+        "properties": {
+          "device": [
+            "desktop",
+            "mobile"
+          ]
+        }
+      },
+      "premio": {
+        "type": "COMPONENT_SET",
+        "key": "103cd896c5c201201364a05e89a6d438d7d8cf06",
+        "variantCount": 5,
+        "properties": {
+          "Property 1": [
+            "altri",
+            "primo",
+            "secondo",
+            "terzo",
+            "vincitori"
+          ]
+        }
+      },
+      "ranking list": {
+        "type": "COMPONENT",
+        "key": "dc430e4286358a8a5cadb7dd8a75ef22475e571d"
+      },
+      "VS - variants": {
+        "type": "COMPONENT_SET",
+        "key": "109835a220d06420916ae5e3815b578017d1789a",
+        "variantCount": 4,
+        "properties": {
+          "state": [
+            "VS",
+            "finita",
+            "finita 2",
+            "pareggio"
+          ]
+        }
+      },
+      "middle strap/ fidelity": {
+        "type": "COMPONENT",
+        "key": "4cb31bfe06e02439c4813efaa5ef93f1c83f65f4"
+      },
+      "middle strap/ gara": {
+        "type": "COMPONENT",
+        "key": "9d791933944a811dbdd9abc79484b5b8a8f19961"
+      }
+    },
+    "Registro giocate❓🛠️": {
+      "Content list variant": {
+        "type": "COMPONENT_SET",
+        "key": "6bfd10e565afa88a0cf07933ef5838c7cbd3cad1",
+        "variantCount": 3,
+        "properties": {
+          "Case": [
+            "Giocata",
+            "Promozioni",
+            "list movement"
+          ]
+        }
+      },
+      "Dropdown - Varians": {
+        "type": "COMPONENT_SET",
+        "key": "56fc6110aeda048188240c6bc8256fb139fb60bc",
+        "variantCount": 4,
+        "properties": {
+          "Status": [
+            "Promo attiva",
+            "Promo scaduta",
+            "buttons",
+            "promo loading"
+          ]
+        }
+      },
+      "List Giocata Variant": {
+        "type": "COMPONENT_SET",
+        "key": "113cc1d8788cc44604a6fca0f1ca7ec9e4366fd3",
+        "variantCount": 8,
+        "properties": {
+          "Status": [
+            "lose",
+            "playing",
+            "stall",
+            "win"
+          ],
+          "open": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Coupon - variants": {
+        "type": "COMPONENT_SET",
+        "key": "8433e8351ee2ee84f43185974f32625f92887f51",
+        "variantCount": 3,
+        "properties": {
+          "stato": [
+            "Da sbloccare",
+            "Disponibile",
+            "scaduto"
+          ]
+        }
+      },
+      "Promozioni e bonus": {
+        "type": "COMPONENT_SET",
+        "key": "d72c711132f5ba4b332c73a1e3c343dccb055f47",
+        "variantCount": 4,
+        "properties": {
+          "open": [
+            "false",
+            "true"
+          ],
+          "theme": [
+            "light"
+          ],
+          "Promo status": [
+            "Disponibile",
+            "scaduta"
+          ]
+        }
+      },
+      "unsplash:k0aVMMZwqtU": {
+        "type": "COMPONENT",
+        "key": "05200e1d31fceb83ae1d0d2e3579985f8f0a3798"
+      },
+      "Content list base": {
+        "type": "COMPONENT",
+        "key": "bc50fcf4cc4c5001ceb3e5df334da56e5d1b24da"
+      },
+      "Dropdown": {
+        "type": "COMPONENT",
+        "key": "69232cd724038d0dfd753c955e4575bc53786c83"
+      },
+      "List item base": {
+        "type": "COMPONENT",
+        "key": "cba01bce261cb2e47993dd28fc62539fbbdcd6fb"
+      },
+      "Approfondimento giocata - Master": {
+        "type": "COMPONENT",
+        "key": "2e616e8fb21e2d3db9e9a24e36390a36521a1ea5"
+      },
+      "Linea tabella sistema": {
+        "type": "COMPONENT",
+        "key": "c516ba471a2ca03237d8ea695dff28f9cdeb469d"
+      },
+      "Tabella sistema": {
+        "type": "COMPONENT",
+        "key": "55eb9ad699416af8c2f961c77fa66df369d63090"
+      },
+      "List Giocata Base": {
+        "type": "COMPONENT",
+        "key": "70f4b03bc51deb7720a55ae2cf59fe602113a447"
+      },
+      "Promozioni - Master": {
+        "type": "COMPONENT",
+        "key": "3d74268125e2e1c172f4ef932d9920ea4d1e5d49"
+      },
+      "coupon - Master": {
+        "type": "COMPONENT",
+        "key": "07cdebaa09d705a4b7e10393e89702ae6807ef70"
+      },
+      "Coupon": {
+        "type": "COMPONENT",
+        "key": "e2a5790b56c339053d645dc6ef905c423d7a9e36"
+      },
+      "Coupon carrello": {
+        "type": "COMPONENT",
+        "key": "c5ad84fc9ab532ff134a0957f951c169385b635b"
+      }
+    },
+    "Widget 🛠️": {
+      "Score - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "2180e2afd161046161b7036e26a6eeb8591675fe",
+        "variantCount": 6,
+        "properties": {
+          "tipo": [
+            "VS",
+            "lise set",
+            "live points"
+          ],
+          "size": [
+            "M",
+            "S"
+          ]
+        }
+      },
+      "VS - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "a7de6a417f9f0b687a42fa73c01ff2bf4b80900b",
+        "variantCount": 6,
+        "properties": {
+          "sqaudre": [
+            "giocatori",
+            "loghi",
+            "maglie"
+          ],
+          "size": [
+            "M",
+            "S"
+          ]
+        }
+      },
+      "Widget scontro - Master DEF": {
+        "type": "COMPONENT_SET",
+        "key": "384ad907421099986ccaccb021ade364e5ff1354",
+        "variantCount": 24,
+        "properties": {
+          "Background": [
+            "dark image",
+            "glass",
+            "plain",
+            "sfumatura"
+          ],
+          "Squadre": [
+            "giocatori",
+            "loghi",
+            "maglie"
+          ],
+          "live": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "widdget streaming video": {
+        "type": "COMPONENT_SET",
+        "key": "206fbdf9ced5f64309f4df01e9be4682a7d44273",
+        "variantCount": 3,
+        "properties": {
+          "Size": [
+            "l",
+            "m",
+            "s"
+          ]
+        }
+      },
+      "Tipster widget": {
+        "type": "COMPONENT",
+        "key": "e6284516cc4a76a1ef71c5bca96e8f99161b99f7"
+      },
+      "evento Random Bet": {
+        "type": "COMPONENT",
+        "key": "d0b4bc4c940d95cde200c9914a9cc6792979d7bc"
+      },
+      "difficoltà": {
+        "type": "COMPONENT",
+        "key": "1bead37c49756473ea05559b6906aa8dc6fad066"
+      },
+      "Tipster filter - variants": {
+        "type": "COMPONENT_SET",
+        "key": "786ec87958024e721e7084559350128e4310ca37",
+        "variantCount": 5,
+        "properties": {
+          "state": [
+            "Default",
+            "active",
+            "disabled",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Widget più giocati - Mobile": {
+        "type": "COMPONENT",
+        "key": "4625c795a35950966448d8844df2de5f900f3ffd"
+      },
+      "difficoltà - variants": {
+        "type": "COMPONENT_SET",
+        "key": "990f625da8a155e18f08a3131f3e4e0d3bf4bfa9",
+        "variantCount": 3,
+        "properties": {
+          "Property 1": [
+            "difficile",
+            "facile",
+            "medio"
+          ]
+        }
+      },
+      "Squadra visore evento": {
+        "type": "COMPONENT",
+        "key": "ed108312b88b3ce3c77bea317206d5b994a85739"
+      },
+      "Widget scontro - Desktop": {
+        "type": "COMPONENT",
+        "key": "6493a073ff4b3a58c6ab4598bcb1f0a31f2f1c03"
+      },
+      "Widget Sport Mobile - Master": {
+        "type": "COMPONENT",
+        "key": "2751dc9a7caef2ebdc918c09108fd6fc5d8e2ffd"
+      },
+      "Slider widget home": {
+        "type": "COMPONENT",
+        "key": "6e2ec336d5853e20314fa07644d961b3d5ff6dc3"
+      },
+      "Widget Sport": {
+        "type": "COMPONENT",
+        "key": "22c872aecb21e4bc98c45be691051faec16bb6b3"
+      },
+      "Topmatch": {
+        "type": "COMPONENT",
+        "key": "2293884fe201a5a6c9ed750481c490c3d22c3a87"
+      },
+      "List Option": {
+        "type": "COMPONENT",
+        "key": "0eecc35808b90922a3fcf9386c5669b274bf951b"
+      },
+      "Pronostico": {
+        "type": "COMPONENT",
+        "key": "6057d75d2c51ba1f63597fddcbfa67dd3e133eb8"
+      },
+      "Widget evento addon": {
+        "type": "COMPONENT",
+        "key": "0d48907186784b603b5af907c79d98d339fef78d"
+      },
+      "Bottom widget addon - mercato": {
+        "type": "COMPONENT",
+        "key": "949efc37e351566e07af94f05fd34feee36fc667"
+      },
+      "Bottom widget addon - sonaggio": {
+        "type": "COMPONENT",
+        "key": "534731d22e08e360bfc010caa3351e81853aa124"
+      },
+      "Bottom widget addon - evento": {
+        "type": "COMPONENT",
+        "key": "4f9b56dc48904deda2649ee960465617d3f81128"
+      },
+      "Bottom widget addon - radio": {
+        "type": "COMPONENT",
+        "key": "495bd1e31ff5c52546a8ecfdf0128be05c36c2ed"
+      },
+      "Streaming radio - Detail page": {
+        "type": "COMPONENT",
+        "key": "f85e6dfa2647fcd353430b5afbcc5145e4c4bb17"
+      },
+      "Widget andamento quote": {
+        "type": "COMPONENT",
+        "key": "c5a585864242410cb067edabde62c6d045bf6437"
+      },
+      "Random Bet - Master": {
+        "type": "COMPONENT",
+        "key": "7bdfbe5a97c5d96e1485655e11752438214b1b19"
+      },
+      "Random bet": {
+        "type": "COMPONENT",
+        "key": "84f18fac9380893e7a17f2f8a2066a05cd6fc9cd"
+      },
+      "riga giocata Tipster tabella - Master": {
+        "type": "COMPONENT",
+        "key": "1944010913dc7ccbf9852ee9fea7bdf1b68eb56f"
+      },
+      "Evento Bet Market": {
+        "type": "COMPONENT",
+        "key": "c3af83da5d267a159e7e30e4453cc6ba0460de45"
+      },
+      "Betmarket-Tipster": {
+        "type": "COMPONENT",
+        "key": "fc861dba0243b4d9b583dd05df43395454d77cab"
+      },
+      "Tipster filter": {
+        "type": "COMPONENT",
+        "key": "f94aa57e55030883d43559e6864d5493b2a8e932"
+      },
+      "Widget quota maggiorata": {
+        "type": "COMPONENT",
+        "key": "8aadae545f07791077c61eaccf4a46da9f516466"
+      },
+      "Component 26": {
+        "type": "COMPONENT",
+        "key": "c4ac2d2024b1194cf78409618940efe73e038fe8"
+      }
+    },
+    "Tipster": {
+      "Chip betmarket": {
+        "type": "COMPONENT_SET",
+        "key": "99bac21d0446e17e29780835f12241cea9a7d00d",
+        "variantCount": 3,
+        "properties": {
+          "type": [
+            "in scadenza",
+            "piùgiocata",
+            "vincita alta"
+          ]
+        }
+      },
+      "Tipster betmarket item": {
+        "type": "COMPONENT",
+        "key": "2e42ef93b28510b27f96dfa0cbc1564a396af5e7"
+      }
+    },
+    "Dettaglio evento": {
+      "Visore manifestazione - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "f574b58cca3d47e1119aa2b6bfdb95d13fea4827",
+        "variantCount": 2,
+        "properties": {
+          "active": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Visore dettaglio evento - variants": {
+        "type": "COMPONENT_SET",
+        "key": "b7046933a82bbe41a50cb9192b2998590f9192f1",
+        "variantCount": 8,
+        "properties": {
+          "accent": [
+            "false",
+            "true"
+          ],
+          "live": [
+            "false",
+            "true"
+          ],
+          "sport": [
+            "full time",
+            "set"
+          ]
+        }
+      },
+      "Altri evento sticky - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "bddcb1f0da17e636729f3a6ee2c34119e395f95c",
+        "variantCount": 6,
+        "properties": {
+          "active": [
+            "false",
+            "true"
+          ],
+          "live": [
+            "false",
+            "true"
+          ],
+          "type": [
+            "evento",
+            "manifestazione"
+          ]
+        }
+      },
+      "Sondaggio partita -widget": {
+        "type": "COMPONENT_SET",
+        "key": "3a563a5a2301c6146d5b492d2d4e94a906ca2c33",
+        "variantCount": 3,
+        "properties": {
+          "Vittoria": [
+            "Casa",
+            "Fuori",
+            "Pareggio"
+          ]
+        }
+      },
+      "Visore manifestazione": {
+        "type": "COMPONENT",
+        "key": "51a9d41cb6b8b815d31b23749bcd2d0e464b54b0"
+      },
+      "Visore dettaglio evento - master": {
+        "type": "COMPONENT",
+        "key": "9fd7078947e4188b3bf8555951eed9809f254d6e"
+      },
+      "Altri evento sticky - Master": {
+        "type": "COMPONENT",
+        "key": "df30cc14ee56cb9436b31ad7b5c0ea038a1c1725"
+      },
+      "Field": {
+        "type": "COMPONENT",
+        "key": "a5abbb395e3ec505c441319094f1b8b93077bf7f"
+      },
+      "Panchina": {
+        "type": "COMPONENT",
+        "key": "416ac9dbc1918ce7fdc670fc735b32b4e3b8e37d"
+      },
+      "dati tabella": {
+        "type": "COMPONENT",
+        "key": "1b32d00bbc529f7096a2c8a58131776cc6673cae"
+      },
+      "Player": {
+        "type": "COMPONENT",
+        "key": "f83c65182223f8da6a3f9b17c186362ccde96fbe"
+      },
+      "Andamento mercato - widget": {
+        "type": "COMPONENT",
+        "key": "f0a35b15529090f18b0a3f4f247ae7bbfc2da1de"
+      }
+    },
+    "Palinsesto": {
+      "Evento palinsesto live": {
+        "type": "COMPONENT_SET",
+        "key": "06b9530dedac71577b66a08237e3297f9e143f96",
+        "variantCount": 3,
+        "properties": {
+          "state": [
+            "Default",
+            "hover",
+            "selected"
+          ]
+        }
+      },
+      "Button palinsesto Def - Light": {
+        "type": "COMPONENT_SET",
+        "key": "4263554fd1fb2f730aab221731403c9c653f374c",
+        "variantCount": 22,
+        "properties": {
+          "state": [
+            "default",
+            "hover",
+            "selected"
+          ],
+          "size": [
+            "desktop",
+            "mobile"
+          ],
+          "Live": [
+            "false",
+            "true"
+          ],
+          "Livello": [
+            "Contenitore",
+            "Manifestazione"
+          ]
+        }
+      },
+      "Altri evento - Master": {
+        "type": "COMPONENT",
+        "key": "8bd9449c3ba5a34e3d0e9acaeff53467f65fa16d"
+      }
+    },
+    "Statistiche🛠️": {
+      "Data XL - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "c1319be682dd95d81a474e9d8957310c3bdb1937",
+        "variantCount": 2,
+        "properties": {
+          "axcent": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "stats line - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "9ac900e3229c33c9e1f420400d99d7ef7057a4d5",
+        "variantCount": 3,
+        "properties": {
+          "Tipo": [
+            "list",
+            "title"
+          ],
+          "highlight": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Data L": {
+        "type": "COMPONENT",
+        "key": "5289968778fd97f851602d57d323bfc3717eaacc"
+      },
+      "Data XL": {
+        "type": "COMPONENT",
+        "key": "01a394eac4541dbd1a7ab3e7a13eba2028905246"
+      },
+      "stats line - Variants/Data": {
+        "type": "COMPONENT",
+        "key": "c696990f8da575285bb3207166df2114ecd7cca6"
+      },
+      "stats line": {
+        "type": "COMPONENT",
+        "key": "8e1e01eb94de8f449791b859e487e08ecfbc6833"
+      }
+    }
+  }
+}

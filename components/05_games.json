@@ -1,0 +1,132 @@
+{
+  "library": "05_Games",
+  "fileKey": "QGGtSWjSssYcWGLB4rULVY",
+  "extractedAt": "2026-05-18",
+  "totalComponents": 20,
+  "pages": {
+    "widget giochi": {
+      "Special game teaser": {
+        "type": "COMPONENT",
+        "key": "70ecd212fd0c48e3a265cd1d8e03c5e58c221320"
+      },
+      "Frame 296": {
+        "type": "COMPONENT",
+        "key": "84509adb5bfd0ca6ef94d7f11c6cc9a3728e4d3f"
+      }
+    },
+    "Teaser giochi": {
+      "Game Teaser 1:1 - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "9ab19745fd9b1b52cb930a766d2fb5d6fcf67d2f",
+        "variantCount": 4,
+        "properties": {
+          "status": [
+            "Default",
+            "hover"
+          ],
+          "Log": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Game Teaser 4:3 - Master": {
+        "type": "COMPONENT",
+        "key": "f9eb42f6cc3c4ddf42362c5451638e33caf0e29b"
+      },
+      "Game Teaser 9:16 - Master": {
+        "type": "COMPONENT",
+        "key": "6561a57550496e676039bff2b7ae5fb8304295b7"
+      },
+      "Top Tag": {
+        "type": "COMPONENT",
+        "key": "187017352308dedec641e02f83f1be6fedf27ea4"
+      },
+      "Game Teaser 1:1 - Master": {
+        "type": "COMPONENT",
+        "key": "a49c1be7bafdb7c6e7d48c28a2165c5627077ba7"
+      }
+    },
+    "Pagina gioco": {
+      "Race party - variants": {
+        "type": "COMPONENT_SET",
+        "key": "8bb90f602c96fd5ab4d4327b09b3c47506b09287",
+        "variantCount": 2,
+        "properties": {
+          "status": [
+            "Default",
+            "terminato"
+          ]
+        }
+      },
+      "M - Sala bingo": {
+        "type": "COMPONENT",
+        "key": "9e5cda70e85bb6ade84e33bc6ce070323f4b9be9"
+      },
+      "Race party - master": {
+        "type": "COMPONENT",
+        "key": "2feabfd9c1503c22673ab58a454e56e4a1d7d03f"
+      }
+    },
+    "Pagina VIP": {
+      "Premio Com Point": {
+        "type": "COMPONENT_SET",
+        "key": "c8ceca496a5dffd54e14b770833ab4c0dfd47022",
+        "variantCount": 3,
+        "properties": {
+          "valore": [
+            "10",
+            "25",
+            "5"
+          ]
+        }
+      },
+      "VIP bonus - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "f7ba6c32b3ff4d3a0b218b7606c57dd8fe4ba113",
+        "variantCount": 4,
+        "properties": {
+          "Active": [
+            "false",
+            "true"
+          ],
+          "Device": [
+            "Desktop",
+            "mobile"
+          ]
+        }
+      },
+      "VIP Badge": {
+        "type": "COMPONENT_SET",
+        "key": "9688869f3d77c8dae6052ef437898457003aac60",
+        "variantCount": 2,
+        "properties": {
+          "type": [
+            "1",
+            "2"
+          ]
+        }
+      },
+      "VIP bonus": {
+        "type": "COMPONENT",
+        "key": "a793c6d0f9e70d3f13e17efa218bf0bd232ed58b"
+      },
+      "VIP Level Desktop - Master": {
+        "type": "COMPONENT",
+        "key": "da22fa8daac28ce243adcf1bed18c56b493d0236"
+      },
+      "linea - Estratto conto punti VIP mobile": {
+        "type": "COMPONENT",
+        "key": "81113154e09adc2beeee000d2c1baed4307f7daf"
+      },
+      "Estratto conto punti VIP mobile": {
+        "type": "COMPONENT",
+        "key": "222c9937293a0c860b2ac82da6420dc5e807b689"
+      },
+      "Estratto conto punti VIP Desktop": {
+        "type": "COMPONENT",
+        "key": "61d7532813a3b650b8e3ef26eb29ed4625cf23d9"
+      }
+    }
+  }
+}

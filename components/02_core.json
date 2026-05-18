@@ -1,0 +1,1395 @@
+{
+  "library": "02_Core",
+  "fileKey": "n6aRrgHoCCgci0U9ytWSHq",
+  "extractedAt": "2026-05-18",
+  "totalComponents": 115,
+  "pages": {
+    "badge ✅": {
+      "badge variants": {
+        "type": "COMPONENT_SET",
+        "key": "17089061d5c6d93d742882969196505860db4944",
+        "variantCount": 10,
+        "properties": {
+          "type": [
+            "danger",
+            "info",
+            "interactive",
+            "live",
+            "primary",
+            "secondary",
+            "success",
+            "tertiary",
+            "transparent",
+            "warning"
+          ]
+        }
+      },
+      "badge promo": {
+        "type": "COMPONENT_SET",
+        "key": "0a2e60fab3c06b5856c2771b564e5dfcca4790ec",
+        "variantCount": 10,
+        "properties": {
+          "type": [
+            "casino",
+            "conditional",
+            "fidelity",
+            "instant",
+            "maggiorate"
+          ],
+          "chip": [
+            "Default",
+            "ghost"
+          ]
+        }
+      },
+      "badge": {
+        "type": "COMPONENT",
+        "key": "8f5a0d9e779ce6a831109c6236b85a83ed4f1421"
+      }
+    },
+    "button ✅": {
+      "button large": {
+        "type": "COMPONENT_SET",
+        "key": "46180f84195400d3d6d35ea23a6c850a6f2e3a85",
+        "variantCount": 53,
+        "properties": {
+          "type": [
+            "brand secondary",
+            "danger",
+            "info",
+            "interactive",
+            "live",
+            "primary",
+            "secondary",
+            "success",
+            "telegram",
+            "tertiary",
+            "transparent",
+            "warning"
+          ],
+          "state": [
+            "active",
+            "default",
+            "disabled",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Button M - Text + icon": {
+        "type": "COMPONENT_SET",
+        "key": "13eea471474f1aeb9be97883ef2ec052bf34667b",
+        "variantCount": 49,
+        "properties": {
+          "type": [
+            "danger",
+            "info",
+            "intractive",
+            "live",
+            "primary",
+            "secondary",
+            "success",
+            "telegram",
+            "tertiary",
+            "transparent",
+            "warning"
+          ],
+          "state": [
+            "active",
+            "default",
+            "disabled",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Button S - Text + icon": {
+        "type": "COMPONENT_SET",
+        "key": "8d6fb0b99f7a9223b8ea782f0f08e728813676ae",
+        "variantCount": 49,
+        "properties": {
+          "type": [
+            "danger",
+            "info",
+            "interactive",
+            "live",
+            "primary",
+            "secondary",
+            "success",
+            "telegram",
+            "tertiary",
+            "transparent",
+            "warning"
+          ],
+          "state": [
+            "active",
+            "default",
+            "disabled",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Button XS - Text + icon": {
+        "type": "COMPONENT_SET",
+        "key": "f0de34f27f5deb9902c5fe2bd4ab4b1d04ac15ec",
+        "variantCount": 49,
+        "properties": {
+          "type": [
+            "danger",
+            "info",
+            "interactive",
+            "live",
+            "primary",
+            "secondary",
+            "success",
+            "telegram",
+            "tertiary",
+            "transparent",
+            "warning"
+          ],
+          "state": [
+            "active",
+            "default",
+            "disabled",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Icon button L": {
+        "type": "COMPONENT_SET",
+        "key": "a128a9bdd30a31dd80eedd9509b3d56d78c76e14",
+        "variantCount": 49,
+        "properties": {
+          "type": [
+            "danger",
+            "info",
+            "interactive",
+            "live",
+            "primary",
+            "secondary",
+            "success",
+            "telegram",
+            "tertiary",
+            "transparent",
+            "warning"
+          ],
+          "state": [
+            "active",
+            "default",
+            "disabled",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Icon button M": {
+        "type": "COMPONENT_SET",
+        "key": "83e574133e731d699039c11062f53a7bb5aab220",
+        "variantCount": 49,
+        "properties": {
+          "type": [
+            "danger",
+            "info",
+            "interactive",
+            "live",
+            "primary",
+            "secondary",
+            "success",
+            "telegram",
+            "tertiary",
+            "transparent",
+            "warning"
+          ],
+          "state": [
+            "active",
+            "default",
+            "disabled",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Icon button S": {
+        "type": "COMPONENT_SET",
+        "key": "2194dc7952fea6f3524eb3ed038c2c4577eb3ed6",
+        "variantCount": 49,
+        "properties": {
+          "type": [
+            "danger",
+            "info",
+            "interactive",
+            "live",
+            "primary",
+            "secondary",
+            "success",
+            "telegram",
+            "tertiary",
+            "transparent",
+            "warning"
+          ],
+          "sate": [
+            "active",
+            "default",
+            "disabled",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Icon button XS": {
+        "type": "COMPONENT_SET",
+        "key": "fbfc825ff4334dfe6b2d1f656d48f69bb588e354",
+        "variantCount": 49,
+        "properties": {
+          "type": [
+            "danger",
+            "info",
+            "interactive",
+            "live",
+            "primary",
+            "secondary",
+            "success",
+            "telegram",
+            "tertiary",
+            "transparent",
+            "warning"
+          ],
+          "state": [
+            "active",
+            "default",
+            "disabled",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "button large - master": {
+        "type": "COMPONENT",
+        "key": "a245b644b7a0651381073266dd651a7fd06b70ff"
+      },
+      "Button M - Master": {
+        "type": "COMPONENT",
+        "key": "9ed69f1df4a7558abe44d5d5c43183dbcfb86b25"
+      },
+      "Button S - Master": {
+        "type": "COMPONENT",
+        "key": "38b9f31c6f426b4fc02a5e4d6c6a846357670d4c"
+      },
+      "Button XS - Master": {
+        "type": "COMPONENT",
+        "key": "14e9257ccea39a0b1ca9df5bf439c19bc7305b90"
+      }
+    },
+    "icontop ✅": {
+      "Button Icon - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "3c1c7e8ef9d71acd190d1c16194fa841299439ee",
+        "variantCount": 25,
+        "properties": {
+          "type": [
+            "interactive",
+            "primary",
+            "secondary",
+            "tertiary",
+            "transparent"
+          ],
+          "state": [
+            "active",
+            "default",
+            "disabled",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Button Icon - Master": {
+        "type": "COMPONENT",
+        "key": "1a185172e630074189680d552d3818e672740353"
+      }
+    },
+    "button over brand ✅": {
+      "Button L - Text + icon over brand": {
+        "type": "COMPONENT_SET",
+        "key": "c4c7e4005d32d5628ae2f78b019e66355f8831ec",
+        "variantCount": 12,
+        "properties": {
+          "tipologia": [
+            "flat",
+            "outline",
+            "transparent"
+          ],
+          "stato": [
+            "active",
+            "default",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Button M - Text + icon over brand": {
+        "type": "COMPONENT_SET",
+        "key": "84eaab1349639959317b69d84da2d2af0c033f83",
+        "variantCount": 12,
+        "properties": {
+          "tipologia": [
+            "flat",
+            "outline",
+            "transparent"
+          ],
+          "stato": [
+            "active",
+            "default",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Button S - Text + icon over brand": {
+        "type": "COMPONENT_SET",
+        "key": "dfd57613e4cd1fd6f3771695d031cba181b8c94f",
+        "variantCount": 12,
+        "properties": {
+          "tipologia": [
+            "flat",
+            "outline",
+            "transparent"
+          ],
+          "stato": [
+            "active",
+            "default",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Button XS - Text + icon over brand": {
+        "type": "COMPONENT_SET",
+        "key": "f1d0789d35d26a5902cfcc60c2a23bd886958eaf",
+        "variantCount": 12,
+        "properties": {
+          "tipologia": [
+            "flat",
+            "outline",
+            "transparent"
+          ],
+          "stato": [
+            "active",
+            "default",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Icon button L over brand": {
+        "type": "COMPONENT_SET",
+        "key": "270a536c114db7809b51d20f6d7638613f66efcd",
+        "variantCount": 12,
+        "properties": {
+          "tipologia": [
+            "flat",
+            "outline",
+            "transparent"
+          ],
+          "stato": [
+            "active",
+            "default",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Icon button M over brand": {
+        "type": "COMPONENT_SET",
+        "key": "bfef56f3451cc735131b3115f3b9d38cbfde3bd4",
+        "variantCount": 12,
+        "properties": {
+          "tipologia": [
+            "flat",
+            "outline",
+            "transparent"
+          ],
+          "stato": [
+            "active",
+            "default",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Icon button S over brand": {
+        "type": "COMPONENT_SET",
+        "key": "d17b820626370dc4542613677293aedf02c10651",
+        "variantCount": 12,
+        "properties": {
+          "tipologia": [
+            "flat",
+            "outline",
+            "transparent"
+          ],
+          "stato": [
+            "active",
+            "default",
+            "hover",
+            "pressed"
+          ]
+        }
+      },
+      "Icon button XS over brand": {
+        "type": "COMPONENT_SET",
+        "key": "eaa96799f44b3849ca990956cf2996432966bc7b",
+        "variantCount": 12,
+        "properties": {
+          "tipologia": [
+            "flat",
+            "ghost",
+            "outline"
+          ],
+          "stato": [
+            "active",
+            "default",
+            "hover",
+            "pressed"
+          ]
+        }
+      }
+    },
+    "tabs ✅": {
+      "Tab primary - variants": {
+        "type": "COMPONENT_SET",
+        "key": "df3ccb3c2468ed55d1f526da7ab7d0c0a8379a00",
+        "variantCount": 8,
+        "properties": {
+          "selected": [
+            "active",
+            "default",
+            "disabled",
+            "hover"
+          ],
+          "Size": [
+            "L",
+            "M"
+          ]
+        }
+      },
+      "Tab": {
+        "type": "COMPONENT",
+        "key": "8b801ed12c8563fa9dc3cd429db03d2c6686ce5a"
+      }
+    },
+    "bottoni menu e palinsesto🛠️": {
+      "Counter to star": {
+        "type": "COMPONENT_SET",
+        "key": "e6ee14321480d706d8fd71b90d8bec0140c84206",
+        "variantCount": 3,
+        "properties": {
+          "tipo": [
+            "counter",
+            "live counter",
+            "preferiti"
+          ]
+        }
+      },
+      "Link menu - variants": {
+        "type": "COMPONENT_SET",
+        "key": "feeed1326d38463656b555af59c9033e9a540741",
+        "variantCount": 28,
+        "properties": {
+          "State": [
+            "Default",
+            "active",
+            "disabled",
+            "hover",
+            "pressed"
+          ],
+          "Submenu": [
+            "danger",
+            "interactive",
+            "transparent"
+          ],
+          "size": [
+            "L",
+            "M"
+          ]
+        }
+      },
+      "Link menu": {
+        "type": "COMPONENT",
+        "key": "31b71dad206dce34d1042c0e2c96f61ea07d2029"
+      },
+      "Scroll bar": {
+        "type": "COMPONENT",
+        "key": "6980677bfbb196bf483a988fdd13919445dd7b5d"
+      },
+      "Evento tab verticale": {
+        "type": "COMPONENT",
+        "key": "e9f455c52417c14a4e0b235fe840db98cfdb4baf"
+      }
+    },
+    "4 - counter ✅": {
+      "counter variants": {
+        "type": "COMPONENT_SET",
+        "key": "2b5262aea075811744f0467f2da8e4067a6369ee",
+        "variantCount": 12,
+        "properties": {
+          "Style": [
+            "alert",
+            "brand secondary",
+            "danger",
+            "info",
+            "interactive",
+            "live",
+            "primary",
+            "secondary",
+            "success",
+            "telegram",
+            "tertiary",
+            "trasparent"
+          ]
+        }
+      },
+      "dot variants": {
+        "type": "COMPONENT_SET",
+        "key": "67b0d9893179c8dc6307b458fbbfc0b4c3ba89ca",
+        "variantCount": 9,
+        "properties": {
+          "Property 1": [
+            "alert",
+            "brand secondary",
+            "danger",
+            "info",
+            "interactive",
+            "live",
+            "primary",
+            "secondary",
+            "success"
+          ]
+        }
+      },
+      "password secure": {
+        "type": "COMPONENT_SET",
+        "key": "44a07f14b7097224317952aeaa3c3c5dd9d91f2c",
+        "variantCount": 5,
+        "properties": {
+          "Security": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        }
+      },
+      "Counter - Master": {
+        "type": "COMPONENT",
+        "key": "b4cd9c665f1fd2b3b10a04d026256066b2eb3d30"
+      },
+      "Dot": {
+        "type": "COMPONENT",
+        "key": "ada98067fb63bbd83ba42f98b4e627160ac96b87"
+      }
+    },
+    "5 - cover-image 🛠️": {
+      "Banner Desktop Variants/sopratitolo": {
+        "type": "COMPONENT",
+        "key": "f8cdea14a066c70a9b6a53afaba843c905b226f9"
+      },
+      "Articolo Banner": {
+        "type": "COMPONENT",
+        "key": "de4ccc73df5e02c8323ddceefdbf8f887abb9cb9"
+      }
+    },
+    "6 - form-input🛠️": {
+      "Checkbox": {
+        "type": "COMPONENT_SET",
+        "key": "76821f9bb2ba1245d7420719fabf790e0b83f2a7",
+        "variantCount": 6,
+        "properties": {
+          "State": [
+            "Checked",
+            "Default",
+            "Disabled Checked",
+            "Disabled Default",
+            "Focus",
+            "Hover"
+          ]
+        }
+      },
+      "Radio button": {
+        "type": "COMPONENT_SET",
+        "key": "b40434ad066d396f2adbaef152f35411654e5cdb",
+        "variantCount": 6,
+        "properties": {
+          "State": [
+            "Checked",
+            "Default",
+            "Disabled Checked",
+            "Disabled Default",
+            "Focus",
+            "Hover"
+          ]
+        }
+      },
+      "Text Field / Text Only + Helper Text": {
+        "type": "COMPONENT_SET",
+        "key": "6b64f3ae847ad3ebbe61fd906b7073c42b042ac3",
+        "variantCount": 5,
+        "properties": {
+          "State": [
+            "Default",
+            "Disabled",
+            "Focus",
+            "Hover",
+            "Valued"
+          ]
+        }
+      },
+      "Text Field / Text Only": {
+        "type": "COMPONENT_SET",
+        "key": "3f784c11ec0cfb894eecd99a4db0fc508cc578f8",
+        "variantCount": 6,
+        "properties": {
+          "State": [
+            "Default",
+            "Disabled",
+            "Focus",
+            "Hover",
+            "Info",
+            "Valued"
+          ]
+        }
+      },
+      "Text Field / Text + Icon + Helper Text": {
+        "type": "COMPONENT_SET",
+        "key": "a458a9edccf23210d128fdb2fb72c2e7a3c4e52b",
+        "variantCount": 5,
+        "properties": {
+          "State": [
+            "Default",
+            "Disabled",
+            "Focus",
+            "Hover",
+            "Valued"
+          ]
+        }
+      },
+      "Text Field / Text + Info + Icon + Helper Text": {
+        "type": "COMPONENT_SET",
+        "key": "6e8408002e20c6d052236b5bdedab5d1c186d4f4",
+        "variantCount": 3,
+        "properties": {
+          "State": [
+            "Default",
+            "Focus",
+            "Hover"
+          ]
+        }
+      },
+      "Text Field Number / Text + Icon + Helper Text": {
+        "type": "COMPONENT_SET",
+        "key": "f68cf388cb315a9b67d6458c04fc6a2315c1d77b",
+        "variantCount": 5,
+        "properties": {
+          "State": [
+            "Default",
+            "Disabled",
+            "Focus",
+            "Hover",
+            "Valued"
+          ]
+        }
+      },
+      "Text Field / Text + Icon": {
+        "type": "COMPONENT_SET",
+        "key": "5ac51bf9b6c5da4b1f341bce83554198de01d491",
+        "variantCount": 5,
+        "properties": {
+          "State": [
+            "Default",
+            "Disabled",
+            "Focus",
+            "Hover",
+            "Valued"
+          ]
+        }
+      },
+      "Text Field Number / Text + Icon": {
+        "type": "COMPONENT_SET",
+        "key": "12ef0d7c951386c65cadb657399b770a5bf3031e",
+        "variantCount": 6,
+        "properties": {
+          "State": [
+            "Default",
+            "Disabled",
+            "Focus",
+            "Hover",
+            "Info",
+            "Valued"
+          ]
+        }
+      },
+      "Semantic / Text Field + Icon + Helper Text": {
+        "type": "COMPONENT_SET",
+        "key": "562f9623d64cb5af49d9fe73df29653dfeb9c141",
+        "variantCount": 4,
+        "properties": {
+          "Semantic": [
+            "Alert",
+            "Info",
+            "Success",
+            "Warning"
+          ]
+        }
+      },
+      "Dropdown / Text + Icon / Close": {
+        "type": "COMPONENT_SET",
+        "key": "de6425baed4a5edaa9625afec6b651a07662dc2c",
+        "variantCount": 7,
+        "properties": {
+          "State": [
+            "Default",
+            "Disabled",
+            "Error",
+            "Focus",
+            "Hover",
+            "Info",
+            "Valued"
+          ]
+        }
+      },
+      "Dropdown / Text + Icon + Helper Text / Close": {
+        "type": "COMPONENT_SET",
+        "key": "6f406752829ae0a7c68f34818090dde9fb3a1d42",
+        "variantCount": 7,
+        "properties": {
+          "State": [
+            "Default",
+            "Disabled",
+            "Error",
+            "Focus",
+            "Hover",
+            "Info",
+            "Valued"
+          ]
+        }
+      },
+      "Dropdown / Option": {
+        "type": "COMPONENT_SET",
+        "key": "8f4c0dcaa879010999180d9795ab158f56ee9db4",
+        "variantCount": 6,
+        "properties": {
+          "State": [
+            "Default",
+            "Disabled",
+            "Focus",
+            "Hover",
+            "Pressed",
+            "Valued"
+          ]
+        }
+      },
+      "Progress Bar + Label": {
+        "type": "COMPONENT_SET",
+        "key": "23794bc274d7653ff18154eb080c6a622d9f67e6",
+        "variantCount": 11,
+        "properties": {
+          "Value": [
+            "0%",
+            "10%",
+            "100%",
+            "20%",
+            "30%",
+            "40%",
+            "50%",
+            "60%",
+            "70%",
+            "80%",
+            "90%"
+          ]
+        }
+      },
+      "File Upload": {
+        "type": "COMPONENT_SET",
+        "key": "6500eb9c802f687b6c2f84d4de582abb3c523a71",
+        "variantCount": 6,
+        "properties": {
+          "State": [
+            "Default",
+            "Disabled",
+            "Focus",
+            "Hover",
+            "Pressed",
+            "Uploaded"
+          ]
+        }
+      },
+      "Slider / Label + Progress": {
+        "type": "COMPONENT_SET",
+        "key": "24b402e495615e5452ed2c07091455b7be0a835b",
+        "variantCount": 5,
+        "properties": {
+          "State": [
+            "Default",
+            "Disabled",
+            "Focus",
+            "Hover",
+            "Pressed"
+          ]
+        }
+      },
+      "Label Number": {
+        "type": "COMPONENT_SET",
+        "key": "72ad27f28002e58f280528a05c3a53320c6f6919",
+        "variantCount": 3,
+        "properties": {
+          "Size": [
+            "SM",
+            "XL",
+            "XS"
+          ]
+        }
+      },
+      "Dropdown / Text + Icon / Open": {
+        "type": "COMPONENT_SET",
+        "key": "3d99186a737929817aca1936492916092eae1005",
+        "variantCount": 6,
+        "properties": {
+          "State": [
+            "Default",
+            "Disabled",
+            "Focus",
+            "Hover",
+            "Pressed",
+            "Valued"
+          ]
+        }
+      },
+      "Text field / Textarea": {
+        "type": "COMPONENT_SET",
+        "key": "3200007538627bbcb500e7977854183a79b50bef",
+        "variantCount": 8,
+        "properties": {
+          "State": [
+            "Default",
+            "Disabled",
+            "Error",
+            "Focus",
+            "Hover",
+            "Info",
+            "Success",
+            "Valued"
+          ]
+        }
+      },
+      "Input field - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "a5478bf23a99c773f55b40bbfc2f077154705055",
+        "variantCount": 7,
+        "properties": {
+          "Status": [
+            "alert",
+            "default",
+            "disabled",
+            "filled",
+            "focus",
+            "success",
+            "warning"
+          ]
+        }
+      },
+      "Input field - paragraph": {
+        "type": "COMPONENT_SET",
+        "key": "ef7f83cb6b1b7053a659ef09d79d0601c8ed0206",
+        "variantCount": 7,
+        "properties": {
+          "Status": [
+            "alert",
+            "default",
+            "disabled",
+            "filled",
+            "focus",
+            "success",
+            "warning"
+          ]
+        }
+      },
+      "List Option plus - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "d01db3edd6a98d721dd079844bdbcb3e72c7ae0e",
+        "variantCount": 3,
+        "properties": {
+          "State": [
+            "Default",
+            "hover"
+          ],
+          "Size": [
+            "L"
+          ],
+          "ricerca": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Modalità Pagamento - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "69347f037bd994b8bb25c9c0bba3d893e4612c23",
+        "variantCount": 5,
+        "properties": {
+          "State": [
+            "default",
+            "filled",
+            "hover",
+            "selected",
+            "to be selected"
+          ],
+          "list": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Dropdown list completo - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "7ed5390a0042017ceaa70c87e8fd5e16a8439462",
+        "variantCount": 2,
+        "properties": {
+          "size": [
+            "L"
+          ],
+          "ricerca": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Input field - Master": {
+        "type": "COMPONENT",
+        "key": "fdb2848be2d94f760d15ebde0575fa45f3cdc59a"
+      },
+      "List Option plus - Master": {
+        "type": "COMPONENT",
+        "key": "cdd482d1b70cbe6ddb6b9e2f6fb4f437c6beee02"
+      },
+      "Modalità pagamento - Base": {
+        "type": "COMPONENT",
+        "key": "7cb0d33aca4bbe465965e581835015b45546922f"
+      },
+      "Dropdown open/L": {
+        "type": "COMPONENT",
+        "key": "3d9a3b0fb816983532e3f46e54d33d4aad2ea74a"
+      }
+    },
+    "6 - form checkbox ✅": {
+      "Checkbox - variants": {
+        "type": "COMPONENT_SET",
+        "key": "402a9f34e583370f243bffba9ddacae19f55dcfb",
+        "variantCount": 6,
+        "properties": {
+          "selected": [
+            "checked",
+            "default",
+            "multipla"
+          ],
+          "disabled": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Checkbox text - variants": {
+        "type": "COMPONENT_SET",
+        "key": "fcd9b880ce51d36c3d56dbc14813e9964cbf8e44",
+        "variantCount": 4,
+        "properties": {
+          "State": [
+            "Default",
+            "disabled"
+          ],
+          "selected": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Checkbox": {
+        "type": "COMPONENT",
+        "key": "2eda0c48e188adf5a0acae63b294552574a442be"
+      },
+      "Controls text": {
+        "type": "COMPONENT",
+        "key": "88dd94b2a636c9359a01768aa70b2d9302448905"
+      }
+    },
+    "6 - Radio button ✅": {
+      "Radio button - variants": {
+        "type": "COMPONENT_SET",
+        "key": "652f81e80c723e9d90b245893329cae7c281b07c",
+        "variantCount": 4,
+        "properties": {
+          "Selected": [
+            "false",
+            "true"
+          ],
+          "disabled": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Controls text": {
+        "type": "COMPONENT",
+        "key": "8bc2ff7b3b09027a72ee6c807acd2208cac92507"
+      },
+      "Radio button": {
+        "type": "COMPONENT",
+        "key": "a965c6a6ee2e83d7c622632a751909b4f0234218"
+      }
+    },
+    "6 - toggle ✅": {
+      "Switch - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "8cf1ed50e668816fdd016f3a00babc217f5957a2",
+        "variantCount": 6,
+        "properties": {
+          "active": [
+            "false",
+            "true"
+          ],
+          "disabled": [
+            "false",
+            "true"
+          ],
+          "colore": [
+            "default",
+            "success"
+          ]
+        }
+      },
+      "Select text - variants": {
+        "type": "COMPONENT_SET",
+        "key": "8cca0d1269178112b19e01a71370e1d0353c61a5",
+        "variantCount": 4,
+        "properties": {
+          "checked": [
+            "false",
+            "true"
+          ],
+          "Disabled": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Theme switch mobile - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "26bde3e7c1d8697202b872c3961fd2ffaaa36eb6",
+        "variantCount": 2,
+        "properties": {
+          "theme": [
+            "dark",
+            "light"
+          ]
+        }
+      },
+      "Switch": {
+        "type": "COMPONENT",
+        "key": "30130f1dc94b3e4be9f6c4072eaa81cee3e77e29"
+      },
+      "Select text - Master": {
+        "type": "COMPONENT",
+        "key": "f8b4c5b5845c5013ac90a31d19177af9a383002a"
+      },
+      "Theme switch mobile - Master": {
+        "type": "COMPONENT",
+        "key": "868aec69a54f7b477d1fffa5b552606d1913f62c"
+      }
+    },
+    "6 - form-date 🛠️": {
+      "Calendar field - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "5c353efc6c4426252cca02a6b903ab41ab337d8d",
+        "variantCount": 4,
+        "properties": {
+          "State": [
+            "Default",
+            "disabled",
+            "intervallo",
+            "selected"
+          ]
+        }
+      },
+      "Dropdown calendar": {
+        "type": "COMPONENT_SET",
+        "key": "43e6c92bb8ba4c930b7cbb0857852c084f44baa3",
+        "variantCount": 2,
+        "properties": {
+          "type": [
+            "intervallo",
+            "singolo"
+          ]
+        }
+      },
+      "Filtro date palinsesti": {
+        "type": "COMPONENT_SET",
+        "key": "704436413cb7630c5d6af3e43ebce78287f2a63b",
+        "variantCount": 4,
+        "properties": {
+          "Property 1": [
+            "custom",
+            "default",
+            "settato",
+            "standard"
+          ],
+          "Open": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Calendar field": {
+        "type": "COMPONENT",
+        "key": "66dce003722a75e85751a6c507d40e3ae32b42b1"
+      },
+      "Dropdown calendario completo ": {
+        "type": "COMPONENT",
+        "key": "17635fb5096bd3be57c9df0ee6d1755b8cb13c11"
+      }
+    },
+    "10 - Info box🛠️": {
+      "Badge - Variants": {
+        "type": "COMPONENT_SET",
+        "key": "49e7e1e927e69a4dc7cb5cce2f7a381d1e19099d",
+        "variantCount": 24,
+        "properties": {
+          "tipo": [
+            "alert",
+            "error",
+            "info",
+            "live",
+            "primary",
+            "success"
+          ],
+          "style": [
+            "center",
+            "down",
+            "rounud",
+            "up"
+          ]
+        }
+      },
+      "Info box - variants": {
+        "type": "COMPONENT_SET",
+        "key": "5928095aae79e03d0700312f21ba9f8083aea715",
+        "variantCount": 5,
+        "properties": {
+          "Type": [
+            "Alert",
+            "Default",
+            "info",
+            "success",
+            "warning"
+          ]
+        }
+      },
+      "Messaggio popup - variants": {
+        "type": "COMPONENT_SET",
+        "key": "fbe295b49f893ee343397453b153a791a4b0e1e2",
+        "variantCount": 5,
+        "properties": {
+          "Property 1": [
+            "Default",
+            "alert",
+            "info",
+            "success",
+            "warning"
+          ]
+        }
+      },
+      "Novità variants": {
+        "type": "COMPONENT_SET",
+        "key": "16c891db6d0f7d76f4da5bf64bc51994a3b2ace9",
+        "variantCount": 8,
+        "properties": {
+          "immagine": [
+            "false",
+            "true"
+          ],
+          "Bottone": [
+            "false",
+            "true"
+          ],
+          "Importanza": [
+            "Alta",
+            "Bassa"
+          ]
+        }
+      },
+      "Badge - master": {
+        "type": "COMPONENT",
+        "key": "eec159d9e3cbd07ad6f1793ce1b334322e992156"
+      },
+      "Info box": {
+        "type": "COMPONENT",
+        "key": "86261f3a2da9893370c5dc399a607e0a6de2281d"
+      },
+      "Messaggio popup - base": {
+        "type": "COMPONENT",
+        "key": "d23161f60f0bd8ba187addcd149c70916b0f18c7"
+      },
+      "Novità": {
+        "type": "COMPONENT",
+        "key": "9779c8c2146b5637b671dd20fbd6db2e90b4814d"
+      }
+    },
+    "14 - message box❓": {
+      "Message Box - Base": {
+        "type": "COMPONENT",
+        "key": "7e55e5083c53f7e974a1e9d71cae075308ee30ff"
+      },
+      "M - Message Box": {
+        "type": "COMPONENT",
+        "key": "f176f7219b4ef622abf8de2b1cdd934528171bed"
+      }
+    },
+    "15 - mobile-bottom-popup🛠️": {
+      "Help drawer": {
+        "type": "COMPONENT_SET",
+        "key": "a96505cb55f7b9d4b70a54f535b973b87260146c",
+        "variantCount": 2,
+        "properties": {
+          "Open": [
+            "Open2",
+            "true"
+          ]
+        }
+      },
+      "Drag modale mobile": {
+        "type": "COMPONENT",
+        "key": "72d5fbce18fd4a3ca7385d059d7975e541717a96"
+      },
+      "Bottom button - modale": {
+        "type": "COMPONENT",
+        "key": "b0253a7c3586ab901f936bae1bd63cdf9f4bfaee"
+      },
+      "Pop-up mobile - frame": {
+        "type": "COMPONENT",
+        "key": "f25ccaa009cc4fad98c53ab1108a1fbb616a641c"
+      }
+    },
+    "18 - pagination": {
+      "dots": {
+        "type": "COMPONENT_SET",
+        "key": "a8a351609b4e0b4dab12d76109e94b1ebdaf18f9",
+        "variantCount": 2,
+        "properties": {
+          "Active": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "lines": {
+        "type": "COMPONENT_SET",
+        "key": "e2dc73474f3430c4ddda1292aecb38412348668b",
+        "variantCount": 2,
+        "properties": {
+          "Active": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Pagination": {
+        "type": "COMPONENT",
+        "key": "957d7c57af648fe8e2d4ab2c8994bf34bb57368c"
+      },
+      "Pagination dots": {
+        "type": "COMPONENT",
+        "key": "f6a7a99b684331faca1647fd39fc9c60d25be33d"
+      },
+      "Pagination lines": {
+        "type": "COMPONENT",
+        "key": "c47146cf6ab067f18c238b7ad29bd35d4203a182"
+      }
+    },
+    "19 - progress": {
+      "Progress bar": {
+        "type": "COMPONENT_SET",
+        "key": "940a1b7b11727247510a1c79a0d34b3933b1a8f2",
+        "variantCount": 12,
+        "properties": {
+          "Property 1": [
+            "0%",
+            "10",
+            "100",
+            "20",
+            "30",
+            "40",
+            "50",
+            "60",
+            "70",
+            "80",
+            "90"
+          ],
+          "success": [
+            "false",
+            "true"
+          ]
+        }
+      },
+      "Scroll": {
+        "type": "COMPONENT",
+        "key": "e906c796ef5803055fb6731b7c170baa02ba2cb5"
+      }
+    },
+    "Divisori ✅": {
+      "Divider": {
+        "type": "COMPONENT",
+        "key": "8a07ac760342fe52652ce8fcb114b66b7f04045c"
+      },
+      "Divider index": {
+        "type": "COMPONENT",
+        "key": "a065f1153044eba8d0a55990c9a9475e6e583699"
+      }
+    },
+    "Ricerca✅": {
+      "Ricerca - Base": {
+        "type": "COMPONENT",
+        "key": "af713416297462bfdbd69c9cb72a161d44d9acb5"
+      }
+    },
+    "Menu button❓❌": {
+      "Mega menu item - variants": {
+        "type": "COMPONENT_SET",
+        "key": "9d5122fe3bcf8700b1a3976ef2c2bc8dddca3424",
+        "variantCount": 8,
+        "properties": {
+          "Status": [
+            "Default",
+            "hover",
+            "pressed",
+            "selected"
+          ],
+          "type": [
+            "default",
+            "ghost"
+          ]
+        }
+      },
+      "mega menu item - master": {
+        "type": "COMPONENT",
+        "key": "9303d33981571bae57d5a4d2be09f9de962305ce"
+      },
+      "Mega menu column": {
+        "type": "COMPONENT",
+        "key": "832869cdc68362b1922c2f31f4538ede746fe935"
+      },
+      "Megamenu drop": {
+        "type": "COMPONENT",
+        "key": "776200c861075bed6138612cce6081e990fd6862"
+      }
+    }
+  }
+}
